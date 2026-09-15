@@ -130,7 +130,4 @@ information is used or referenced.
 
 ---
 
-I built this to show how I think about promotion measurement, a problem I work on
-professionally. If it is a problem you are working on too, I would like twenty minutes.
-
 Joseph Kauffmann · New York · joseph.kauffmann@me.com
