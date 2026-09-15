@@ -1,0 +1,384 @@
+event_id,sku_id,retailer,start_week,end_week,start_idx,dur,depth,display,feature,coupon,tier_kind,funding_type,exec_fail,trade_cost,units_on_promo,brand_funding_share,everyday,coupon_cost,wholesale_price
+EV-0000,BW-101,Fernhollow Market,2024-03-02,2024-03-02,24,1,0.2,False,True,True,ad,scanback,False,830.92,931.1,0.44,5.79,55.87,3.821
+EV-0001,BW-101,Fernhollow Market,2024-12-21,2025-01-04,66,3,0.3,True,True,False,hero,scanback,False,7143.63,5419.0,0.48,5.79,0.0,3.821
+EV-0002,BW-101,Fernhollow Market,2026-08-15,2026-08-22,152,2,0.2,False,True,False,ad,scanback,False,1795.63,1588.6,0.47,6.29,0.0,4.151
+EV-0003,BW-101,Fernhollow Market,2026-04-18,2026-04-18,135,1,0.25,False,True,True,ad,scanback,False,999.89,920.7,0.37,6.29,55.24,4.151
+EV-0004,BW-101,Fernhollow Market,2023-12-23,2023-12-23,14,1,0.15,False,False,False,tpr,scanback,False,257.77,715.9,0.44,5.49,0.0,3.623
+EV-0005,BW-101,Fernhollow Market,2025-02-01,2025-02-08,72,2,0.1,False,False,False,tpr,scanback,False,247.17,1126.7,0.38,5.79,0.0,3.821
+EV-0006,BW-101,Fernhollow Market,2026-01-10,2026-01-10,121,1,0.2,True,True,True,ad,scanback,False,2044.54,1907.3,0.38,6.29,114.44,4.151
+EV-0007,BW-101,Fernhollow Market,2023-10-21,2023-10-21,5,1,0.15,False,False,False,tpr,scanback,False,149.13,418.8,0.43,5.49,0.0,3.623
+EV-0008,BW-101,Fernhollow Market,2025-06-21,2025-06-21,92,1,0.25,True,True,True,ad,scanback,False,1938.67,1303.7,0.47,5.99,78.22,3.953
+EV-0009,BW-101,Fernhollow Market,2024-10-12,2024-10-12,56,1,0.15,False,False,False,tpr,off_invoice,False,193.89,477.5,0.47,5.79,0.0,3.821
+EV-0010,BW-101,Granite Peak Grocers,2024-12-14,2024-12-21,65,2,0.3,True,True,True,hero,off_invoice,False,4227.6,4033.9,0.38,5.29,242.03,3.491
+EV-0011,BW-101,Granite Peak Grocers,2026-08-15,2026-08-15,152,1,0.15,False,False,False,tpr,scanback,False,180.06,474.6,0.44,5.79,0.0,3.821
+EV-0012,BW-101,Granite Peak Grocers,2024-06-08,2024-06-15,38,2,0.15,False,False,False,tpr,off_invoice,False,251.81,712.2,0.45,5.29,0.0,3.491
+EV-0013,BW-101,Granite Peak Grocers,2025-02-08,2025-02-15,73,2,0.2,False,True,False,ad,scanback,False,1405.14,1677.5,0.45,5.29,0.0,3.491
+EV-0014,BW-101,Granite Peak Grocers,2026-01-03,2026-01-03,120,1,0.1,False,False,False,tpr,off_invoice,False,198.79,871.3,0.42,5.49,0.0,3.623
+EV-0015,BW-101,Granite Peak Grocers,2025-08-02,2025-08-02,98,1,0.1,False,False,False,tpr,off_invoice,False,75.27,299.9,0.46,5.49,0.0,3.623
+EV-0016,BW-101,Granite Peak Grocers,2024-10-05,2024-10-12,55,2,0.1,False,False,False,tpr,scanback,False,195.96,978.6,0.38,5.29,0.0,3.491
+EV-0017,BW-101,Granite Peak Grocers,2024-01-27,2024-02-03,19,2,0.1,False,False,False,tpr,scanback,False,233.1,1024.1,0.46,4.99,0.0,3.293
+EV-0018,BW-101,Granite Peak Grocers,2024-08-24,2024-08-24,49,1,0.1,False,False,False,tpr,scanback,False,92.98,373.5,0.47,5.29,0.0,3.491
+EV-0019,BW-101,Granite Peak Grocers,2026-05-16,2026-05-16,139,1,0.1,False,False,False,tpr,off_invoice,False,81.56,362.6,0.39,5.79,0.0,3.821
+EV-0020,BW-101,Granite Peak Grocers,2025-11-22,2025-11-29,114,2,0.25,True,True,False,ad,scanback,False,3211.01,3152.1,0.35,5.49,0.0,3.623
+EV-0021,BW-101,Granite Peak Grocers,2024-07-06,2024-07-13,42,2,0.2,False,True,False,ad,scanback,False,1116.59,1203.8,0.44,5.29,0.0,3.491
+EV-0022,BW-101,Granite Peak Grocers,2025-05-24,2025-05-24,88,1,0.1,False,False,False,tpr,scanback,False,70.98,367.4,0.35,5.49,0.0,3.623
+EV-0023,BW-101,Granite Peak Grocers,2025-08-30,2025-09-06,102,2,0.2,False,True,False,ad,off_invoice,False,1339.98,1536.7,0.41,5.49,0.0,3.623
+EV-0024,BW-101,Granite Peak Grocers,2025-04-26,2025-04-26,84,1,0.1,False,False,False,tpr,scanback,False,125.43,508.9,0.47,5.29,0.0,3.491
+EV-0025,BW-101,Granite Peak Grocers,2023-12-16,2023-12-30,13,3,0.25,True,True,False,hero,scanback,False,4494.45,4539.1,0.45,4.99,0.0,3.293
+EV-0026,BW-101,ThriftLane,2026-01-03,2026-01-10,120,2,0.2,False,True,False,ad,scanback,False,3500.98,5404.0,0.48,4.79,0.0,3.161
+EV-0027,BW-101,ThriftLane,2023-12-30,2024-01-06,15,2,0.15,False,False,False,tpr,scanback,False,761.99,3339.8,0.35,4.29,0.0,2.831
+EV-0028,BW-101,ThriftLane,2026-02-07,2026-02-14,125,2,0.1,False,False,False,tpr,scanback,False,550.28,2760.4,0.42,4.79,0.0,3.161
+EV-0029,BW-101,ThriftLane,2025-03-15,2025-03-22,78,2,0.2,False,True,True,ad,scanback,True,1871.85,2048.8,0.44,4.49,122.93,2.963
+EV-0030,BW-101,ThriftLane,2024-02-03,2024-02-03,20,1,0.15,False,False,False,tpr,scanback,False,409.33,1780.0,0.36,4.29,0.0,2.831
+EV-0031,BW-101,ThriftLane,2024-05-04,2024-05-04,33,1,0.25,True,True,False,ad,scanback,False,1643.82,1613.4,0.37,4.29,0.0,2.831
+EV-0032,BW-101,ThriftLane,2024-11-23,2024-11-30,62,2,0.15,False,False,False,tpr,off_invoice,False,866.15,2902.3,0.44,4.49,0.0,2.963
+EV-0033,BW-101,ThriftLane,2024-05-25,2024-05-25,36,1,0.2,True,True,True,ad,off_invoice,False,1764.29,1837.1,0.38,4.49,110.23,2.963
+EV-0034,BW-101,ThriftLane,2025-07-19,2025-07-19,96,1,0.15,False,False,False,tpr,off_invoice,False,260.1,1001.7,0.36,4.79,0.0,3.161
+EV-0035,BW-101,ThriftLane,2026-04-18,2026-04-25,135,2,0.1,False,False,False,tpr,off_invoice,False,446.92,2023.9,0.44,4.99,0.0,3.293
+EV-0036,BW-101,ThriftLane,2023-11-25,2023-11-25,10,1,0.25,True,True,False,ad,off_invoice,False,1891.06,2563.9,0.35,4.29,0.0,2.831
+EV-0037,BW-101,ThriftLane,2025-04-19,2025-04-19,83,1,0.1,False,False,False,tpr,off_invoice,False,153.99,950.8,0.36,4.49,0.0,2.963
+EV-0038,BW-101,ThriftLane,2026-08-15,2026-08-22,152,2,0.2,False,True,False,ad,scanback,False,2479.42,4028.7,0.34,4.99,0.0,3.293
+EV-0039,BW-101,ThriftLane,2025-02-15,2025-02-15,74,1,0.15,False,False,False,tpr,scanback,False,279.3,881.1,0.47,4.49,0.0,2.963
+EV-0040,BW-101,ThriftLane,2026-06-06,2026-06-13,142,2,0.25,True,True,False,hero,scanback,False,4958.8,4698.2,0.38,4.99,0.0,3.293
+EV-0041,BW-101,ThriftLane,2025-05-17,2025-05-17,87,1,0.15,False,False,False,tpr,off_invoice,False,204.05,840.3,0.36,4.49,0.0,2.963
+EV-0042,BW-101,ThriftLane,2025-08-23,2025-08-23,101,1,0.25,False,True,False,ad,scanback,False,1835.46,2497.9,0.45,4.79,0.0,3.161
+EV-0043,BW-101,ThriftLane,2024-08-24,2024-08-24,49,1,0.1,False,False,False,tpr,scanback,False,235.82,1177.0,0.45,4.49,0.0,2.963
+EV-0044,BW-101,ThriftLane,2026-07-04,2026-07-11,146,2,0.25,False,True,False,ad,scanback,False,2475.83,3227.8,0.34,4.99,0.0,3.293
+EV-0045,BW-101,ThriftLane,2025-06-07,2025-06-07,90,1,0.2,True,True,False,ad,scanback,False,1827.1,2080.4,0.35,4.49,0.0,2.963
+EV-0046,BW-101,ThriftLane,2023-10-28,2023-11-04,6,2,0.1,False,False,False,tpr,scanback,True,248.8,1247.4,0.46,4.29,0.0,2.831
+EV-0047,BW-101,ThriftLane,2026-05-16,2026-05-16,139,1,0.1,False,False,False,tpr,scanback,False,170.02,1002.1,0.34,4.99,0.0,3.293
+EV-0048,BW-101,Hollybrook Foods,2024-10-26,2024-11-02,58,2,0.3,True,True,True,hero,off_invoice,False,1508.41,1000.6,0.47,5.79,60.04,3.821
+EV-0049,BW-101,Hollybrook Foods,2023-11-04,2023-11-04,7,1,0.15,False,False,False,tpr,off_invoice,False,54.9,143.9,0.46,5.49,0.0,3.623
+EV-0050,BW-101,Hollybrook Foods,2024-02-10,2024-02-17,21,2,0.15,False,False,False,tpr,scanback,False,137.16,419.4,0.4,5.49,0.0,3.623
+EV-0051,BW-101,Hollybrook Foods,2025-11-29,2025-11-29,115,1,0.2,True,True,False,ad,off_invoice,False,603.73,486.5,0.36,6.29,0.0,4.151
+EV-0052,BW-101,Hollybrook Foods,2024-12-28,2025-01-04,67,2,0.15,False,False,False,tpr,scanback,False,210.69,598.4,0.41,5.79,0.0,3.821
+EV-0053,BW-101,Hollybrook Foods,2025-06-28,2025-07-12,93,3,0.25,True,True,True,hero,scanback,False,1963.48,1268.9,0.43,5.99,76.13,3.953
+EV-0054,BW-101,Hollybrook Foods,2026-08-15,2026-08-22,152,2,0.2,True,True,False,ad,scanback,False,1348.25,833.1,0.45,6.29,0.0,4.151
+EV-0055,BW-101,Hollybrook Foods,2024-06-22,2024-06-22,40,1,0.15,False,False,False,tpr,off_invoice,False,38.58,119.5,0.37,5.79,0.0,3.821
+EV-0056,BW-101,Hollybrook Foods,2026-06-06,2026-06-20,142,3,0.25,True,True,True,hero,scanback,False,2505.74,1515.7,0.46,6.29,90.94,4.151
+EV-0057,BW-101,Hollybrook Foods,2023-12-30,2023-12-30,15,1,0.25,False,True,True,ad,scanback,False,369.47,369.1,0.48,5.49,22.15,3.623
+EV-0058,BW-102,Fernhollow Market,2025-11-08,2025-11-15,112,2,0.1,False,False,False,tpr,off_invoice,False,264.83,1001.8,0.44,5.99,0.0,3.953
+EV-0059,BW-102,Fernhollow Market,2024-05-25,2024-05-25,36,1,0.15,False,False,False,tpr,scanback,False,137.66,379.6,0.42,5.79,0.0,3.821
+EV-0060,BW-102,Fernhollow Market,2024-11-30,2024-11-30,63,1,0.25,False,True,False,ad,scanback,False,1009.74,1158.8,0.4,5.79,0.0,3.821
+EV-0061,BW-102,Fernhollow Market,2025-05-24,2025-05-24,88,1,0.15,False,False,False,tpr,scanback,False,169.49,414.1,0.46,5.99,0.0,3.953
+EV-0062,BW-102,Fernhollow Market,2023-09-30,2023-10-07,2,2,0.3,True,True,True,hero,scanback,False,2768.06,1542.6,0.46,5.49,92.56,3.623
+EV-0063,BW-102,Fernhollow Market,2026-06-20,2026-07-04,144,3,0.3,True,True,True,hero,scanback,False,5764.89,3250.2,0.38,6.29,195.01,4.151
+EV-0064,BW-102,Fernhollow Market,2025-02-15,2025-02-15,74,1,0.15,False,False,False,tpr,scanback,False,197.16,629.0,0.36,5.79,0.0,3.821
+EV-0065,BW-102,Fernhollow Market,2024-04-13,2024-04-27,30,3,0.3,True,True,False,hero,off_invoice,False,3966.33,2526.9,0.35,5.79,0.0,3.821
+EV-0066,BW-102,Fernhollow Market,2025-04-12,2025-04-12,82,1,0.1,False,False,False,tpr,scanback,False,90.58,385.1,0.39,5.99,0.0,3.953
+EV-0067,BW-102,Fernhollow Market,2025-06-14,2025-06-21,91,2,0.15,False,False,False,tpr,off_invoice,False,316.99,896.5,0.39,5.99,0.0,3.953
+EV-0068,BW-102,Fernhollow Market,2025-07-19,2025-07-19,96,1,0.15,False,False,False,tpr,off_invoice,False,181.13,475.0,0.42,5.99,0.0,3.953
+EV-0069,BW-102,Fernhollow Market,2024-12-21,2024-12-28,66,2,0.25,True,True,True,hero,scanback,False,3572.99,2833.5,0.4,5.79,170.01,3.821
+EV-0070,BW-102,Fernhollow Market,2026-01-10,2026-01-10,121,1,0.1,False,False,False,tpr,scanback,False,197.52,734.0,0.43,6.29,0.0,4.151
+EV-0071,BW-102,Granite Peak Grocers,2023-12-30,2024-01-06,15,2,0.3,True,True,True,hero,scanback,False,2694.68,2272.1,0.38,4.99,136.33,3.293
+EV-0072,BW-102,Granite Peak Grocers,2024-12-14,2024-12-21,65,2,0.25,True,True,False,hero,scanback,False,3110.71,2590.8,0.47,5.29,0.0,3.491
+EV-0073,BW-102,Granite Peak Grocers,2026-05-23,2026-05-30,140,2,0.2,False,True,False,ad,scanback,False,1300.41,1220.5,0.42,5.79,0.0,3.821
+EV-0074,BW-102,Granite Peak Grocers,2024-08-10,2024-08-24,47,3,0.3,True,True,False,hero,scanback,False,3597.56,2292.1,0.43,5.29,0.0,3.491
+EV-0075,BW-102,Granite Peak Grocers,2026-01-31,2026-02-07,124,2,0.2,False,True,False,ad,scanback,False,1559.43,1756.4,0.46,5.49,0.0,3.623
+EV-0076,BW-102,Granite Peak Grocers,2026-07-04,2026-07-04,146,1,0.2,True,True,False,ad,scanback,True,1138.79,373.3,0.44,5.79,0.0,3.821
+EV-0077,BW-102,Granite Peak Grocers,2024-07-06,2024-07-06,42,1,0.25,False,True,True,ad,scanback,False,673.24,688.6,0.39,5.29,41.32,3.491
+EV-0078,BW-102,Granite Peak Grocers,2025-02-15,2025-02-15,74,1,0.1,False,False,False,tpr,off_invoice,False,89.31,456.4,0.37,5.29,0.0,3.491
+EV-0079,BW-102,Granite Peak Grocers,2024-04-13,2024-04-20,30,2,0.15,False,False,False,tpr,scanback,False,180.99,654.8,0.35,5.29,0.0,3.491
+EV-0080,BW-102,Granite Peak Grocers,2023-10-21,2023-10-21,5,1,0.15,False,False,False,tpr,scanback,False,107.4,372.8,0.38,4.99,0.0,3.293
+EV-0081,BW-102,Granite Peak Grocers,2024-03-23,2024-03-23,27,1,0.1,False,False,False,tpr,scanback,False,76.85,439.3,0.35,4.99,0.0,3.293
+EV-0082,BW-102,Granite Peak Grocers,2025-01-18,2025-01-18,70,1,0.15,False,False,False,tpr,off_invoice,False,156.39,470.8,0.42,5.29,0.0,3.491
+EV-0083,BW-102,Granite Peak Grocers,2026-07-25,2026-07-25,149,1,0.15,False,False,False,tpr,scanback,False,161.59,524.0,0.36,5.79,0.0,3.821
+EV-0084,BW-102,Granite Peak Grocers,2026-08-22,2026-08-22,153,1,0.2,False,True,False,ad,off_invoice,False,826.29,852.7,0.47,5.79,0.0,3.821
+EV-0085,BW-102,Granite Peak Grocers,2025-08-09,2025-08-16,99,2,0.15,False,False,False,tpr,off_invoice,False,227.41,788.8,0.35,5.49,0.0,3.623
+EV-0086,BW-102,Granite Peak Grocers,2024-09-28,2024-09-28,54,1,0.2,False,True,False,ad,scanback,False,552.6,539.8,0.47,5.29,0.0,3.491
+EV-0087,BW-102,Granite Peak Grocers,2026-03-28,2026-04-04,132,2,0.3,True,True,False,hero,scanback,False,3269.13,2239.1,0.38,5.79,0.0,3.821
+EV-0088,BW-102,ThriftLane,2026-06-27,2026-07-04,145,2,0.15,False,False,False,tpr,scanback,False,667.91,2011.5,0.44,4.99,0.0,3.293
+EV-0089,BW-102,ThriftLane,2025-07-05,2025-07-05,94,1,0.2,False,True,False,ad,scanback,False,902.35,1268.7,0.38,4.49,0.0,2.963
+EV-0090,BW-102,ThriftLane,2026-03-07,2026-03-07,129,1,0.1,False,False,False,tpr,scanback,False,247.2,1184.1,0.44,4.79,0.0,3.161
+EV-0091,BW-102,ThriftLane,2023-11-04,2023-11-04,7,1,0.15,False,False,False,tpr,scanback,False,173.47,638.5,0.42,4.29,0.0,2.831
+EV-0092,BW-102,ThriftLane,2023-12-16,2023-12-23,13,2,0.2,False,True,False,ad,off_invoice,False,1532.18,2859.4,0.34,4.29,0.0,2.831
+EV-0093,BW-102,ThriftLane,2025-08-23,2025-08-23,101,1,0.1,False,False,False,tpr,off_invoice,False,202.81,956.9,0.44,4.79,0.0,3.161
+EV-0094,BW-102,ThriftLane,2024-12-28,2025-01-04,67,2,0.15,False,False,False,tpr,off_invoice,False,718.38,2447.8,0.44,4.49,0.0,2.963
+EV-0095,BW-102,ThriftLane,2024-02-03,2024-02-03,20,1,0.2,False,True,False,ad,off_invoice,False,743.21,1096.7,0.43,4.29,0.0,2.831
+EV-0096,BW-102,ThriftLane,2024-05-25,2024-05-25,36,1,0.15,False,False,False,tpr,scanback,False,199.86,737.8,0.4,4.49,0.0,2.963
+EV-0097,BW-102,ThriftLane,2024-11-30,2024-11-30,63,1,0.2,False,True,True,ad,scanback,False,1160.34,1652.9,0.44,4.49,99.17,2.963
+EV-0098,BW-102,ThriftLane,2026-08-08,2026-08-22,151,3,0.2,True,True,False,hero,scanback,False,6601.5,5265.3,0.47,4.99,0.0,3.293
+EV-0099,BW-102,ThriftLane,2025-10-11,2025-10-11,108,1,0.1,False,False,False,tpr,scanback,True,113.67,527.3,0.45,4.79,0.0,3.161
+EV-0100,BW-102,ThriftLane,2024-08-31,2024-08-31,50,1,0.15,False,False,False,tpr,scanback,False,296.77,1187.1,0.37,4.49,0.0,2.963
+EV-0101,BW-102,ThriftLane,2023-09-30,2023-10-07,2,2,0.25,False,True,True,ad,scanback,False,1662.17,1967.3,0.43,4.29,118.04,2.831
+EV-0102,BW-102,ThriftLane,2025-11-22,2025-11-29,114,2,0.2,True,True,False,hero,off_invoice,False,4185.76,4575.8,0.4,4.79,0.0,3.161
+EV-0103,BW-102,ThriftLane,2026-05-16,2026-05-30,139,3,0.25,True,True,True,hero,off_invoice,True,5103.41,2287.7,0.35,4.99,137.26,3.293
+EV-0104,BW-102,ThriftLane,2025-12-20,2026-01-03,118,3,0.2,True,True,True,hero,off_invoice,False,7128.21,7759.5,0.38,4.79,465.57,3.161
+EV-0105,BW-102,ThriftLane,2026-04-11,2026-04-11,134,1,0.15,False,False,False,tpr,scanback,False,275.47,1045.6,0.35,4.99,0.0,3.293
+EV-0106,BW-102,ThriftLane,2025-09-13,2025-09-13,104,1,0.1,False,False,False,tpr,scanback,False,176.75,841.1,0.44,4.79,0.0,3.161
+EV-0107,BW-102,ThriftLane,2025-05-31,2025-05-31,89,1,0.25,True,True,False,ad,scanback,False,1779.54,1566.7,0.36,4.49,0.0,2.963
+EV-0108,BW-102,ThriftLane,2024-10-05,2024-10-05,55,1,0.15,False,False,False,tpr,off_invoice,False,293.4,1022.3,0.43,4.49,0.0,2.963
+EV-0109,BW-102,ThriftLane,2024-06-29,2024-06-29,41,1,0.15,False,False,False,tpr,off_invoice,False,216.44,871.4,0.37,4.49,0.0,2.963
+EV-0110,BW-102,ThriftLane,2024-04-27,2024-05-04,32,2,0.15,False,False,False,tpr,off_invoice,False,324.51,1257.2,0.4,4.29,0.0,2.831
+EV-0111,BW-102,ThriftLane,2024-04-06,2024-04-06,29,1,0.15,False,False,False,tpr,scanback,False,201.95,673.4,0.47,4.29,0.0,2.831
+EV-0112,BW-102,ThriftLane,2024-11-02,2024-11-02,59,1,0.25,False,True,False,ad,scanback,True,724.38,605.2,0.47,4.49,0.0,2.963
+EV-0113,BW-102,ThriftLane,2026-01-24,2026-01-31,123,2,0.15,False,False,False,tpr,scanback,False,781.9,2408.6,0.45,4.79,0.0,3.161
+EV-0114,BW-102,ThriftLane,2025-07-26,2025-07-26,97,1,0.15,False,False,False,tpr,scanback,False,323.7,985.0,0.46,4.79,0.0,3.161
+EV-0115,BW-102,Hollybrook Foods,2024-03-16,2024-03-23,26,2,0.2,False,True,True,ad,scanback,False,485.58,442.8,0.4,5.79,26.57,3.821
+EV-0116,BW-102,Hollybrook Foods,2026-03-28,2026-04-04,132,2,0.15,False,False,False,tpr,scanback,False,128.61,332.6,0.41,6.29,0.0,4.151
+EV-0117,BW-102,Hollybrook Foods,2025-08-16,2025-08-23,100,2,0.2,False,True,False,ad,scanback,False,566.86,477.7,0.45,5.99,0.0,3.953
+EV-0118,BW-102,Hollybrook Foods,2025-07-05,2025-07-12,94,2,0.15,False,False,False,tpr,off_invoice,False,114.09,287.5,0.44,5.99,0.0,3.953
+EV-0119,BW-102,Hollybrook Foods,2025-02-22,2025-03-01,75,2,0.2,False,True,False,ad,off_invoice,False,536.28,534.3,0.41,5.79,0.0,3.821
+EV-0120,BW-102,Hollybrook Foods,2025-10-11,2025-10-11,108,1,0.15,False,False,False,tpr,off_invoice,False,76.24,216.2,0.39,5.99,0.0,3.953
+EV-0121,BW-102,Hollybrook Foods,2023-12-16,2023-12-16,13,1,0.15,False,False,False,tpr,scanback,False,58.72,180.8,0.39,5.49,0.0,3.623
+EV-0122,BW-102,Hollybrook Foods,2024-11-16,2024-11-16,61,1,0.25,True,True,True,ad,scanback,False,626.41,346.7,0.48,5.79,20.8,3.821
+EV-0123,BW-102,Hollybrook Foods,2025-05-24,2025-05-31,88,2,0.2,False,True,False,ad,off_invoice,False,507.29,396.7,0.44,5.99,0.0,3.953
+EV-0124,BW-102,Hollybrook Foods,2023-11-04,2023-11-11,7,2,0.15,False,False,False,tpr,scanback,False,75.58,255.7,0.36,5.49,0.0,3.623
+EV-0125,BW-103,Fernhollow Market,2024-08-10,2024-08-10,47,1,0.2,True,True,False,ad,off_invoice,False,1030.22,410.9,0.37,7.49,0.0,4.943
+EV-0126,BW-103,Fernhollow Market,2025-01-11,2025-01-18,69,2,0.15,False,False,False,tpr,scanback,True,237.28,600.2,0.35,7.49,0.0,4.943
+EV-0127,BW-103,Fernhollow Market,2023-11-18,2023-12-02,9,3,0.3,True,True,False,hero,scanback,False,3507.85,1495.9,0.46,6.99,0.0,4.613
+EV-0128,BW-103,Fernhollow Market,2024-02-24,2024-03-02,23,2,0.15,False,False,False,tpr,scanback,False,292.14,544.4,0.48,7.49,0.0,4.943
+EV-0129,BW-103,Fernhollow Market,2024-08-31,2024-08-31,50,1,0.2,False,True,True,ad,scanback,False,545.71,340.6,0.42,7.49,20.44,4.943
+EV-0130,BW-103,Fernhollow Market,2025-12-13,2025-12-13,117,1,0.15,False,False,False,tpr,scanback,False,212.59,471.8,0.38,7.99,0.0,5.273
+EV-0131,BW-103,Fernhollow Market,2025-10-11,2025-10-18,108,2,0.15,False,False,False,tpr,off_invoice,False,257.7,567.9,0.38,7.99,0.0,5.273
+EV-0132,BW-103,Fernhollow Market,2026-01-03,2026-01-03,120,1,0.25,False,True,False,ad,scanback,False,1044.69,770.1,0.4,8.29,0.0,5.471
+EV-0133,BW-103,Fernhollow Market,2026-05-16,2026-05-23,139,2,0.15,False,False,False,tpr,scanback,False,251.37,592.9,0.34,8.29,0.0,5.471
+EV-0134,BW-103,Fernhollow Market,2026-08-01,2026-08-15,150,3,0.3,True,True,False,hero,scanback,False,5068.08,1850.3,0.39,8.29,0.0,5.471
+EV-0135,BW-103,Granite Peak Grocers,2025-12-27,2026-01-03,119,2,0.2,True,True,True,ad,off_invoice,False,3133.49,1817.4,0.46,7.49,109.04,4.943
+EV-0136,BW-103,Granite Peak Grocers,2025-07-12,2025-07-19,95,2,0.1,False,False,False,tpr,scanback,False,136.81,484.4,0.38,7.49,0.0,4.943
+EV-0137,BW-103,Granite Peak Grocers,2026-06-20,2026-06-27,144,2,0.1,False,False,False,tpr,scanback,False,156.61,567.0,0.35,7.79,0.0,5.141
+EV-0138,BW-103,Granite Peak Grocers,2024-01-06,2024-01-13,16,2,0.3,True,True,False,hero,scanback,False,2378.91,1429.1,0.36,6.49,0.0,4.283
+EV-0139,BW-103,Granite Peak Grocers,2024-12-28,2024-12-28,67,1,0.15,False,False,False,tpr,scanback,False,175.7,483.7,0.35,6.99,0.0,4.613
+EV-0140,BW-103,Granite Peak Grocers,2023-11-11,2023-11-18,8,2,0.1,False,False,False,tpr,off_invoice,False,110.3,453.4,0.37,6.49,0.0,4.283
+EV-0141,BW-103,Granite Peak Grocers,2025-05-24,2025-05-31,88,2,0.25,False,True,True,ad,scanback,False,1302.74,830.4,0.4,7.49,49.82,4.943
+EV-0142,BW-103,Granite Peak Grocers,2026-08-08,2026-08-08,151,1,0.25,False,True,False,ad,scanback,False,690.46,367.1,0.44,7.79,0.0,5.141
+EV-0143,BW-103,Granite Peak Grocers,2024-11-23,2024-11-23,62,1,0.1,False,False,False,tpr,off_invoice,False,83.83,300.2,0.4,6.99,0.0,4.613
+EV-0144,BW-103,Granite Peak Grocers,2024-05-25,2024-05-25,36,1,0.25,False,True,False,ad,scanback,False,485.77,338.5,0.35,6.99,0.0,4.613
+EV-0145,BW-103,Granite Peak Grocers,2026-02-07,2026-02-14,125,2,0.25,True,True,True,hero,scanback,False,3099.51,1466.8,0.45,7.49,88.01,4.943
+EV-0146,BW-103,Granite Peak Grocers,2024-03-02,2024-03-02,24,1,0.25,False,True,False,ad,scanback,False,578.83,422.8,0.46,6.49,0.0,4.283
+EV-0147,BW-103,Granite Peak Grocers,2024-06-22,2024-06-29,40,2,0.1,False,False,False,tpr,scanback,False,132.32,438.2,0.43,6.99,0.0,4.613
+EV-0148,BW-103,Granite Peak Grocers,2026-05-09,2026-05-09,138,1,0.1,False,False,False,tpr,off_invoice,False,107.98,318.2,0.44,7.79,0.0,5.141
+EV-0149,BW-103,Granite Peak Grocers,2024-08-31,2024-09-07,50,2,0.25,True,True,False,hero,off_invoice,False,2084.96,920.4,0.4,6.99,0.0,4.613
+EV-0150,BW-103,Granite Peak Grocers,2023-12-16,2023-12-16,13,1,0.2,True,True,False,ad,scanback,False,952.77,487.3,0.46,6.49,0.0,4.283
+EV-0151,BW-103,Granite Peak Grocers,2024-10-26,2024-11-02,58,2,0.15,False,False,False,tpr,scanback,False,223.32,533.8,0.4,6.99,0.0,4.613
+EV-0152,BW-103,ThriftLane,2024-11-02,2024-11-09,59,2,0.15,False,False,False,tpr,scanback,False,333.15,986.7,0.39,5.79,0.0,3.821
+EV-0153,BW-103,ThriftLane,2024-04-20,2024-04-20,31,1,0.1,False,False,False,tpr,scanback,False,107.42,544.5,0.36,5.49,0.0,3.623
+EV-0154,BW-103,ThriftLane,2024-01-13,2024-01-20,17,2,0.25,True,True,True,hero,scanback,False,3746.86,3033.7,0.38,5.49,182.02,3.623
+EV-0155,BW-103,ThriftLane,2025-11-29,2025-11-29,115,1,0.2,False,True,False,ad,scanback,False,1069.41,1372.5,0.35,5.99,0.0,3.953
+EV-0156,BW-103,ThriftLane,2025-05-17,2025-05-17,87,1,0.1,False,False,False,tpr,off_invoice,True,99.53,411.1,0.42,5.79,0.0,3.821
+EV-0157,BW-103,ThriftLane,2026-08-08,2026-08-08,151,1,0.1,False,False,False,tpr,scanback,False,164.85,596.3,0.44,6.29,0.0,4.151
+EV-0158,BW-103,ThriftLane,2025-12-27,2025-12-27,119,1,0.2,True,True,True,ad,scanback,True,1746.5,720.4,0.45,5.99,43.22,3.953
+EV-0159,BW-103,ThriftLane,2024-07-13,2024-07-13,43,1,0.15,False,False,False,tpr,scanback,False,132.18,430.5,0.35,5.79,0.0,3.821
+EV-0160,BW-103,ThriftLane,2023-11-11,2023-11-18,8,2,0.25,False,True,False,ad,scanback,False,1554.49,1581.1,0.37,5.49,0.0,3.623
+EV-0161,BW-103,ThriftLane,2024-03-30,2024-03-30,28,1,0.2,False,True,True,ad,scanback,False,856.77,804.7,0.46,5.49,48.28,3.623
+EV-0162,BW-103,ThriftLane,2025-10-11,2025-10-11,108,1,0.15,False,False,False,tpr,scanback,False,317.67,756.1,0.47,5.99,0.0,3.953
+EV-0163,BW-103,ThriftLane,2023-10-21,2023-10-21,5,1,0.1,False,False,False,tpr,scanback,False,135.59,536.7,0.46,5.49,0.0,3.623
+EV-0164,BW-103,ThriftLane,2024-08-31,2024-09-07,50,2,0.2,False,True,False,ad,off_invoice,False,1521.36,1508.4,0.39,5.79,0.0,3.821
+EV-0165,BW-103,ThriftLane,2026-05-16,2026-05-16,139,1,0.2,True,True,False,ad,scanback,False,1860.3,1052.2,0.4,6.29,0.0,4.151
+EV-0166,BW-103,ThriftLane,2025-01-18,2025-01-18,70,1,0.15,False,False,False,tpr,scanback,False,268.24,799.3,0.39,5.79,0.0,3.821
+EV-0167,BW-103,ThriftLane,2026-03-07,2026-03-14,129,2,0.25,False,True,False,ad,scanback,False,2139.74,1860.0,0.39,5.99,0.0,3.953
+EV-0168,BW-103,ThriftLane,2025-02-15,2025-02-15,74,1,0.1,False,False,False,tpr,off_invoice,False,146.06,638.8,0.39,5.79,0.0,3.821
+EV-0169,BW-103,ThriftLane,2025-07-19,2025-07-26,96,2,0.2,True,True,False,ad,scanback,True,2915.36,1051.5,0.35,5.99,0.0,3.953
+EV-0170,BW-103,ThriftLane,2025-08-16,2025-08-23,100,2,0.2,False,True,False,ad,off_invoice,False,1825.71,1808.7,0.39,5.99,0.0,3.953
+EV-0171,BW-103,ThriftLane,2025-09-20,2025-09-20,105,1,0.2,False,True,False,ad,scanback,False,921.47,868.9,0.41,5.99,0.0,3.953
+EV-0172,BW-103,ThriftLane,2024-12-21,2024-12-21,66,1,0.1,False,False,False,tpr,off_invoice,False,270.44,1030.6,0.45,5.79,0.0,3.821
+EV-0173,BW-103,ThriftLane,2025-03-29,2025-03-29,80,1,0.15,False,False,False,tpr,scanback,False,248.26,648.7,0.44,5.79,0.0,3.821
+EV-0174,BW-103,ThriftLane,2025-11-08,2025-11-08,112,1,0.15,False,False,False,tpr,scanback,False,279.37,807.4,0.39,5.99,0.0,3.953
+EV-0175,BW-103,ThriftLane,2026-06-27,2026-07-04,145,2,0.25,True,True,True,ad,off_invoice,False,4752.47,2726.1,0.42,6.29,163.57,4.151
+EV-0176,BW-103,ThriftLane,2023-12-09,2023-12-23,12,3,0.2,True,True,False,hero,scanback,False,4597.27,3559.5,0.43,5.49,0.0,3.623
+EV-0177,BW-103,ThriftLane,2024-08-03,2024-08-03,46,1,0.15,False,False,False,tpr,scanback,False,190.2,460.7,0.48,5.79,0.0,3.821
+EV-0178,BW-103,ThriftLane,2024-06-01,2024-06-01,37,1,0.15,False,False,False,tpr,scanback,False,155.21,446.2,0.4,5.79,0.0,3.821
+EV-0179,BW-103,Hollybrook Foods,2026-08-08,2026-08-08,151,1,0.1,False,False,False,tpr,scanback,False,29.52,83.3,0.43,8.29,0.0,5.471
+EV-0180,BW-103,Hollybrook Foods,2024-09-07,2024-09-07,51,1,0.1,False,False,False,tpr,off_invoice,False,21.68,66.2,0.44,7.49,0.0,4.943
+EV-0181,BW-103,Hollybrook Foods,2025-05-24,2025-05-31,88,2,0.25,False,True,True,ad,scanback,False,580.65,303.0,0.43,7.99,18.18,5.273
+EV-0182,BW-103,Hollybrook Foods,2026-04-18,2026-04-18,135,1,0.15,False,False,False,tpr,scanback,False,53.63,116.6,0.37,8.29,0.0,5.471
+EV-0183,BW-103,Hollybrook Foods,2025-12-27,2025-12-27,119,1,0.25,False,True,False,ad,off_invoice,False,356.76,212.5,0.43,8.29,0.0,5.471
+EV-0184,BW-103,Hollybrook Foods,2023-12-30,2023-12-30,15,1,0.2,False,True,False,ad,scanback,False,223.02,152.3,0.44,6.99,0.0,4.613
+EV-0185,BW-103,Hollybrook Foods,2023-11-18,2023-11-18,9,1,0.15,False,False,False,tpr,off_invoice,False,46.61,110.1,0.4,6.99,0.0,4.613
+EV-0186,BW-103,Hollybrook Foods,2024-04-13,2024-04-20,30,2,0.25,True,True,True,hero,scanback,False,986.59,372.4,0.37,7.49,22.34,4.943
+EV-0187,BW-103,Hollybrook Foods,2023-09-30,2023-10-07,2,2,0.2,True,True,False,ad,off_invoice,False,851.06,317.1,0.47,6.99,0.0,4.613
+EV-0188,BW-103,Hollybrook Foods,2025-08-02,2025-08-16,98,3,0.3,True,True,False,hero,off_invoice,False,1669.33,490.7,0.41,7.99,0.0,5.273
+EV-0189,BW-103,Hollybrook Foods,2024-03-09,2024-03-09,25,1,0.1,False,False,False,tpr,scanback,False,29.75,105.5,0.38,7.49,0.0,4.943
+EV-0190,BW-201,Fernhollow Market,2023-10-21,2023-10-28,5,2,0.15,False,False,False,tpr,off_invoice,False,338.82,1134.5,0.44,4.49,0.0,2.963
+EV-0191,BW-201,Fernhollow Market,2026-07-25,2026-08-01,149,2,0.1,False,False,False,tpr,off_invoice,False,316.89,1484.2,0.4,5.29,0.0,3.491
+EV-0192,BW-201,Fernhollow Market,2026-05-16,2026-05-30,139,3,0.25,True,True,False,hero,off_invoice,False,6180.52,4764.2,0.48,5.29,0.0,3.491
+EV-0193,BW-201,Fernhollow Market,2024-09-28,2024-09-28,54,1,0.15,False,False,False,tpr,off_invoice,False,128.53,501.7,0.36,4.79,0.0,3.161
+EV-0194,BW-201,Fernhollow Market,2025-12-20,2026-01-03,118,3,0.25,True,True,True,hero,scanback,False,5836.24,4706.3,0.4,5.29,282.38,3.491
+EV-0195,BW-201,Fernhollow Market,2025-02-01,2025-02-08,72,2,0.15,False,False,False,tpr,scanback,False,347.45,1096.5,0.44,4.79,0.0,3.161
+EV-0196,BW-201,Fernhollow Market,2024-03-23,2024-03-30,27,2,0.15,False,False,False,tpr,off_invoice,False,290.66,844.1,0.48,4.79,0.0,3.161
+EV-0197,BW-201,Fernhollow Market,2024-12-21,2024-12-28,66,2,0.2,False,True,False,ad,scanback,False,1346.32,1663.7,0.42,4.79,0.0,3.161
+EV-0198,BW-201,Fernhollow Market,2024-08-03,2024-08-10,46,2,0.15,False,False,False,tpr,scanback,False,351.08,1179.1,0.41,4.79,0.0,3.161
+EV-0199,BW-201,Fernhollow Market,2025-08-30,2025-09-06,102,2,0.25,False,True,False,ad,scanback,False,2020.4,2349.6,0.44,4.99,0.0,3.293
+EV-0200,BW-201,Fernhollow Market,2024-06-29,2024-06-29,41,1,0.15,False,False,False,tpr,scanback,False,283.57,1134.8,0.35,4.79,0.0,3.161
+EV-0201,BW-201,Granite Peak Grocers,2024-11-02,2024-11-09,59,2,0.1,False,False,False,tpr,scanback,False,133.46,912.5,0.34,4.29,0.0,2.831
+EV-0202,BW-201,Granite Peak Grocers,2026-03-07,2026-03-14,129,2,0.15,False,False,False,tpr,off_invoice,False,295.52,1062.4,0.39,4.79,0.0,3.161
+EV-0203,BW-201,Granite Peak Grocers,2024-01-27,2024-02-03,19,2,0.25,True,True,True,ad,scanback,False,2237.2,2333.1,0.39,3.99,139.99,2.633
+EV-0204,BW-201,Granite Peak Grocers,2025-04-05,2025-04-05,81,1,0.15,False,False,False,tpr,scanback,False,113.74,495.0,0.36,4.29,0.0,2.831
+EV-0205,BW-201,Granite Peak Grocers,2026-06-20,2026-06-20,144,1,0.15,False,False,False,tpr,scanback,False,177.41,540.1,0.46,4.79,0.0,3.161
+EV-0206,BW-201,Granite Peak Grocers,2024-07-27,2024-07-27,45,1,0.15,False,False,False,tpr,scanback,False,179.16,603.2,0.46,4.29,0.0,2.831
+EV-0207,BW-201,Granite Peak Grocers,2025-05-31,2025-06-07,89,2,0.25,True,True,False,hero,scanback,False,2814.61,2901.6,0.4,4.49,0.0,2.963
+EV-0208,BW-201,Granite Peak Grocers,2023-12-23,2023-12-30,14,2,0.3,True,True,False,hero,scanback,False,2246.72,2256.5,0.39,3.99,0.0,2.633
+EV-0209,BW-201,Granite Peak Grocers,2024-02-24,2024-03-02,23,2,0.2,False,True,False,ad,scanback,False,854.3,1172.5,0.41,3.99,0.0,2.633
+EV-0210,BW-201,Granite Peak Grocers,2025-09-06,2025-09-13,103,2,0.2,False,True,False,ad,off_invoice,False,1469.57,2013.4,0.45,4.49,0.0,2.963
+EV-0211,BW-201,Granite Peak Grocers,2024-12-28,2024-12-28,67,1,0.25,True,True,True,ad,scanback,False,1212.5,1031.1,0.39,4.29,61.87,2.831
+EV-0212,BW-201,Granite Peak Grocers,2024-05-25,2024-06-08,36,3,0.3,True,True,True,hero,scanback,False,5468.99,6027.5,0.42,4.29,361.65,2.831
+EV-0213,BW-201,Granite Peak Grocers,2026-05-09,2026-05-09,138,1,0.1,False,False,False,tpr,scanback,False,87.39,404.7,0.45,4.79,0.0,3.161
+EV-0214,BW-201,Granite Peak Grocers,2026-07-18,2026-07-18,148,1,0.1,False,False,False,tpr,scanback,False,134.5,638.0,0.44,4.79,0.0,3.161
+EV-0215,BW-201,Granite Peak Grocers,2025-08-02,2025-08-02,98,1,0.15,False,False,False,tpr,scanback,False,172.39,728.7,0.35,4.49,0.0,2.963
+EV-0216,BW-201,Granite Peak Grocers,2024-08-24,2024-08-31,49,2,0.2,False,True,False,ad,scanback,False,1174.86,1822.9,0.41,4.29,0.0,2.831
+EV-0217,BW-201,Granite Peak Grocers,2026-01-03,2026-01-03,120,1,0.15,False,False,False,tpr,scanback,False,158.61,506.2,0.47,4.49,0.0,2.963
+EV-0218,BW-201,Granite Peak Grocers,2026-04-04,2026-04-11,133,2,0.15,False,False,False,tpr,scanback,False,375.94,1134.8,0.46,4.79,0.0,3.161
+EV-0219,BW-201,Granite Peak Grocers,2024-10-05,2024-10-05,55,1,0.1,False,False,False,tpr,off_invoice,False,67.07,448.9,0.35,4.29,0.0,2.831
+EV-0220,BW-201,ThriftLane,2025-02-15,2025-02-22,74,2,0.1,False,False,False,tpr,scanback,False,338.15,2127.7,0.42,3.79,0.0,2.501
+EV-0221,BW-201,ThriftLane,2026-04-25,2026-05-02,136,2,0.2,False,True,True,ad,off_invoice,False,2980.31,4286.9,0.45,4.29,257.21,2.831
+EV-0222,BW-201,ThriftLane,2025-12-06,2025-12-20,116,3,0.2,True,True,True,hero,scanback,False,6612.48,7496.3,0.39,3.99,449.78,2.633
+EV-0223,BW-201,ThriftLane,2024-03-30,2024-04-06,28,2,0.15,False,False,False,tpr,scanback,False,497.81,2210.5,0.43,3.49,0.0,2.303
+EV-0224,BW-201,ThriftLane,2024-10-26,2024-10-26,58,1,0.15,False,False,False,tpr,scanback,False,287.63,1176.4,0.43,3.79,0.0,2.501
+EV-0225,BW-201,ThriftLane,2025-05-17,2025-05-17,87,1,0.15,False,False,False,tpr,off_invoice,False,311.53,1579.2,0.35,3.79,0.0,2.501
+EV-0226,BW-201,ThriftLane,2025-07-12,2025-07-12,95,1,0.1,False,False,False,tpr,off_invoice,False,245.44,1449.6,0.45,3.79,0.0,2.501
+EV-0227,BW-201,ThriftLane,2023-12-02,2023-12-09,11,2,0.15,False,False,False,tpr,scanback,False,404.54,1845.3,0.42,3.49,0.0,2.303
+EV-0228,BW-201,ThriftLane,2025-08-16,2025-08-16,100,1,0.1,False,False,False,tpr,scanback,False,271.13,1697.2,0.4,3.99,0.0,2.633
+EV-0229,BW-201,ThriftLane,2024-07-06,2024-07-06,42,1,0.15,False,False,False,tpr,off_invoice,False,404.12,1918.0,0.37,3.79,0.0,2.501
+EV-0230,BW-201,ThriftLane,2024-09-07,2024-09-14,51,2,0.15,False,False,False,tpr,scanback,False,627.49,2619.6,0.42,3.79,0.0,2.501
+EV-0231,BW-201,ThriftLane,2026-01-10,2026-01-17,121,2,0.2,False,True,True,ad,scanback,False,2873.88,4328.5,0.47,3.99,259.71,2.633
+EV-0232,BW-201,ThriftLane,2024-12-07,2024-12-07,64,1,0.15,False,False,False,tpr,scanback,False,216.29,1103.1,0.34,3.79,0.0,2.501
+EV-0233,BW-201,ThriftLane,2025-01-11,2025-01-18,69,2,0.2,False,True,True,ad,scanback,False,2263.46,3694.4,0.43,3.79,221.66,2.501
+EV-0234,BW-201,ThriftLane,2024-05-18,2024-05-25,35,2,0.2,False,True,True,ad,scanback,False,2293.39,4590.7,0.41,3.49,275.44,2.303
+EV-0235,BW-201,ThriftLane,2026-02-21,2026-02-21,127,1,0.25,True,True,True,ad,scanback,False,2998.16,4059.6,0.37,3.99,243.58,2.633
+EV-0236,BW-201,ThriftLane,2026-03-21,2026-03-28,131,2,0.1,False,False,False,tpr,off_invoice,False,381.79,2549.0,0.38,3.99,0.0,2.633
+EV-0237,BW-201,ThriftLane,2024-02-17,2024-02-24,22,2,0.2,True,True,True,ad,scanback,False,3185.68,4855.8,0.35,3.49,291.35,2.303
+EV-0238,BW-201,ThriftLane,2024-01-06,2024-01-13,16,2,0.25,True,True,False,hero,scanback,False,3411.21,4438.4,0.43,3.49,0.0,2.303
+EV-0239,BW-201,ThriftLane,2026-05-23,2026-05-30,140,2,0.15,False,False,False,tpr,scanback,False,1161.81,4035.7,0.45,4.29,0.0,2.831
+EV-0240,BW-201,ThriftLane,2025-09-27,2025-10-04,106,2,0.25,False,True,False,ad,scanback,False,2948.6,4358.3,0.45,3.99,0.0,2.633
+EV-0241,BW-201,Hollybrook Foods,2024-03-16,2024-03-30,26,3,0.25,True,True,True,hero,off_invoice,False,1660.56,1474.7,0.39,4.79,88.48,3.161
+EV-0242,BW-201,Hollybrook Foods,2026-08-08,2026-08-22,151,3,0.3,True,True,True,hero,scanback,False,3539.45,3061.6,0.42,5.29,183.7,3.491
+EV-0243,BW-201,Hollybrook Foods,2025-08-23,2025-08-23,101,1,0.1,False,False,False,tpr,off_invoice,False,74.38,351.7,0.42,4.99,0.0,3.293
+EV-0244,BW-201,Hollybrook Foods,2023-12-02,2023-12-09,11,2,0.3,True,True,False,hero,off_invoice,False,1011.02,918.8,0.38,4.49,0.0,2.963
+EV-0245,BW-201,Hollybrook Foods,2024-10-19,2024-10-26,57,2,0.2,False,True,False,ad,scanback,False,544.45,678.2,0.44,4.79,0.0,3.161
+EV-0246,BW-201,Hollybrook Foods,2024-05-04,2024-05-18,33,3,0.3,True,True,False,hero,scanback,False,2027.79,1884.1,0.42,4.79,0.0,3.161
+EV-0247,BW-201,Hollybrook Foods,2026-07-04,2026-07-04,146,1,0.2,False,True,False,ad,scanback,False,511.11,694.4,0.46,5.29,0.0,3.491
+EV-0248,BW-201,Hollybrook Foods,2024-08-10,2024-08-10,47,1,0.1,False,False,False,tpr,off_invoice,False,58.17,259.6,0.47,4.79,0.0,3.161
+EV-0249,BW-201,Hollybrook Foods,2025-12-27,2026-01-03,119,2,0.15,False,False,False,tpr,scanback,False,110.71,401.3,0.35,5.29,0.0,3.491
+EV-0250,BW-201,Hollybrook Foods,2025-01-11,2025-01-18,69,2,0.25,False,True,False,ad,scanback,False,651.26,755.9,0.43,4.79,0.0,3.161
+EV-0251,BW-201,Hollybrook Foods,2026-02-07,2026-02-14,125,2,0.2,False,True,False,ad,scanback,True,459.26,294.7,0.46,5.29,0.0,3.491
+EV-0252,BW-202,Fernhollow Market,2025-07-05,2025-07-05,94,1,0.25,True,True,False,ad,off_invoice,False,1994.8,2280.8,0.35,4.99,0.0,3.293
+EV-0253,BW-202,Fernhollow Market,2026-06-27,2026-07-04,145,2,0.1,False,False,False,tpr,scanback,False,293.47,1469.3,0.38,5.29,0.0,3.491
+EV-0254,BW-202,Fernhollow Market,2025-08-30,2025-09-06,102,2,0.25,False,True,False,ad,off_invoice,False,1664.7,2052.0,0.35,4.99,0.0,3.293
+EV-0255,BW-202,Fernhollow Market,2024-12-28,2025-01-04,67,2,0.25,True,True,True,hero,off_invoice,False,3152.46,2373.9,0.41,4.79,142.43,3.161
+EV-0256,BW-202,Fernhollow Market,2024-02-10,2024-02-17,21,2,0.1,False,False,False,tpr,scanback,False,105.38,664.1,0.35,4.49,0.0,2.963
+EV-0257,BW-202,Fernhollow Market,2024-07-06,2024-07-13,42,2,0.15,False,False,False,tpr,off_invoice,False,439.91,1466.6,0.42,4.79,0.0,3.161
+EV-0258,BW-202,Fernhollow Market,2025-11-01,2025-11-08,111,2,0.1,False,False,False,tpr,off_invoice,False,157.95,922.3,0.34,4.99,0.0,3.293
+EV-0259,BW-202,Fernhollow Market,2025-12-13,2025-12-20,117,2,0.2,False,True,True,ad,scanback,False,1380.82,1331.8,0.37,4.99,79.91,3.293
+EV-0260,BW-202,Fernhollow Market,2025-05-03,2025-05-03,85,1,0.25,True,True,False,ad,off_invoice,False,1619.92,1376.9,0.39,4.99,0.0,3.293
+EV-0261,BW-202,Fernhollow Market,2026-02-28,2026-02-28,128,1,0.15,False,False,False,tpr,off_invoice,False,181.8,554.8,0.41,5.29,0.0,3.491
+EV-0262,BW-202,Fernhollow Market,2025-06-07,2025-06-14,90,2,0.15,False,False,False,tpr,scanback,False,383.04,1246.7,0.41,4.99,0.0,3.293
+EV-0263,BW-202,Fernhollow Market,2025-10-11,2025-10-11,108,1,0.15,False,False,False,tpr,scanback,False,177.97,586.0,0.41,4.99,0.0,3.293
+EV-0264,BW-202,Granite Peak Grocers,2024-04-20,2024-04-20,31,1,0.15,False,False,False,tpr,off_invoice,False,126.72,527.5,0.37,4.29,0.0,2.831
+EV-0265,BW-202,Granite Peak Grocers,2024-12-07,2024-12-14,64,2,0.15,False,False,False,tpr,scanback,False,270.3,925.6,0.45,4.29,0.0,2.831
+EV-0266,BW-202,Granite Peak Grocers,2024-05-25,2024-05-25,36,1,0.2,False,True,False,ad,off_invoice,False,511.62,649.9,0.41,4.29,0.0,2.831
+EV-0267,BW-202,Granite Peak Grocers,2026-06-27,2026-07-04,145,2,0.25,False,True,False,ad,off_invoice,False,2447.55,3707.6,0.39,4.79,0.0,3.161
+EV-0268,BW-202,Granite Peak Grocers,2024-10-19,2024-10-26,57,2,0.25,True,True,False,ad,scanback,True,1878.98,770.5,0.39,4.29,0.0,2.831
+EV-0269,BW-202,Granite Peak Grocers,2026-02-21,2026-02-28,127,2,0.15,False,False,False,tpr,off_invoice,False,338.11,983.0,0.48,4.79,0.0,3.161
+EV-0270,BW-202,Granite Peak Grocers,2023-11-11,2023-11-18,8,2,0.25,True,True,True,ad,off_invoice,False,2301.18,1841.4,0.45,3.99,110.48,2.633
+EV-0271,BW-202,Granite Peak Grocers,2025-05-17,2025-05-24,87,2,0.2,True,True,False,ad,off_invoice,False,2521.67,2153.6,0.46,4.49,0.0,2.963
+EV-0272,BW-202,Granite Peak Grocers,2025-08-23,2025-08-23,101,1,0.25,False,True,True,ad,off_invoice,False,1223.13,1570.1,0.45,4.49,94.21,2.963
+EV-0273,BW-202,Granite Peak Grocers,2024-07-06,2024-07-06,42,1,0.2,True,True,False,ad,off_invoice,False,1172.39,1404.8,0.34,4.29,0.0,2.831
+EV-0274,BW-202,Granite Peak Grocers,2024-08-10,2024-08-10,47,1,0.1,False,False,False,tpr,scanback,True,89.86,568.8,0.37,4.29,0.0,2.831
+EV-0275,BW-202,Granite Peak Grocers,2025-12-20,2025-12-27,118,2,0.1,False,False,False,tpr,scanback,False,177.57,929.1,0.43,4.49,0.0,2.963
+EV-0276,BW-202,Granite Peak Grocers,2026-05-16,2026-05-23,139,2,0.25,True,True,False,ad,scanback,False,3295.7,3580.5,0.34,4.79,0.0,3.161
+EV-0277,BW-202,Granite Peak Grocers,2023-12-23,2023-12-23,14,1,0.2,False,True,False,ad,scanback,False,457.81,634.1,0.36,3.99,0.0,2.633
+EV-0278,BW-202,Granite Peak Grocers,2025-11-01,2025-11-01,111,1,0.1,False,False,False,tpr,off_invoice,False,102.29,607.8,0.37,4.49,0.0,2.963
+EV-0279,BW-202,Granite Peak Grocers,2026-08-22,2026-08-22,153,1,0.25,True,True,False,ad,scanback,False,1903.73,1912.4,0.42,4.79,0.0,3.161
+EV-0280,BW-202,Granite Peak Grocers,2026-01-17,2026-01-24,122,2,0.1,False,False,False,tpr,off_invoice,False,170.0,1021.4,0.37,4.49,0.0,2.963
+EV-0281,BW-202,ThriftLane,2025-02-01,2025-02-01,72,1,0.15,False,False,False,tpr,scanback,False,250.87,1354.2,0.35,3.49,0.0,2.303
+EV-0282,BW-202,ThriftLane,2024-02-10,2024-02-10,21,1,0.15,False,False,False,tpr,off_invoice,False,179.12,839.8,0.43,3.29,0.0,2.171
+EV-0283,BW-202,ThriftLane,2025-05-24,2025-06-07,88,3,0.2,True,True,True,hero,scanback,False,7366.96,10451.4,0.42,3.49,627.08,2.303
+EV-0284,BW-202,ThriftLane,2025-11-29,2025-11-29,115,1,0.25,False,True,True,ad,scanback,False,1401.2,1924.6,0.43,3.79,115.48,2.501
+EV-0285,BW-202,ThriftLane,2025-12-27,2025-12-27,119,1,0.1,False,False,False,tpr,off_invoice,False,145.4,1067.5,0.36,3.79,0.0,2.501
+EV-0286,BW-202,ThriftLane,2025-04-12,2025-04-26,82,3,0.25,True,True,False,hero,off_invoice,False,6613.56,8488.6,0.4,3.49,0.0,2.303
+EV-0287,BW-202,ThriftLane,2025-07-12,2025-07-12,95,1,0.15,False,False,False,tpr,scanback,False,411.12,1831.4,0.43,3.49,0.0,2.303
+EV-0288,BW-202,ThriftLane,2026-06-27,2026-06-27,145,1,0.15,False,False,False,tpr,scanback,False,509.51,2262.0,0.38,3.99,0.0,2.633
+EV-0289,BW-202,ThriftLane,2026-02-14,2026-02-14,126,1,0.1,False,False,False,tpr,off_invoice,True,141.1,1021.8,0.36,3.79,0.0,2.501
+EV-0290,BW-202,ThriftLane,2024-06-08,2024-06-08,38,1,0.1,False,False,False,tpr,scanback,False,121.71,1007.0,0.35,3.49,0.0,2.303
+EV-0291,BW-202,ThriftLane,2024-01-13,2024-01-20,17,2,0.2,False,True,False,ad,scanback,False,1588.34,2734.7,0.42,3.29,0.0,2.171
+EV-0292,BW-202,ThriftLane,2024-08-10,2024-08-10,47,1,0.15,False,False,False,tpr,scanback,False,280.61,1275.9,0.42,3.49,0.0,2.303
+EV-0293,BW-202,ThriftLane,2024-06-29,2024-07-13,41,3,0.2,True,True,False,hero,scanback,False,5923.01,9182.9,0.4,3.49,0.0,2.303
+EV-0294,BW-202,ThriftLane,2023-11-18,2023-11-25,9,2,0.1,False,False,False,tpr,scanback,False,234.16,1494.2,0.48,3.29,0.0,2.171
+EV-0295,BW-202,ThriftLane,2026-05-30,2026-06-06,141,2,0.25,True,True,False,ad,scanback,False,5181.73,6981.9,0.36,3.99,0.0,2.633
+EV-0296,BW-202,ThriftLane,2024-11-16,2024-11-23,61,2,0.1,False,False,False,tpr,scanback,False,280.27,1908.5,0.42,3.49,0.0,2.303
+EV-0297,BW-202,ThriftLane,2025-01-04,2025-01-11,68,2,0.2,True,True,True,hero,scanback,False,4170.92,5519.3,0.38,3.49,331.16,2.303
+EV-0298,BW-202,ThriftLane,2025-09-27,2025-10-11,106,3,0.2,True,True,False,hero,off_invoice,False,6378.71,7657.8,0.43,3.79,0.0,2.501
+EV-0299,BW-202,ThriftLane,2024-03-30,2024-03-30,28,1,0.15,False,False,False,tpr,scanback,False,266.45,1504.6,0.36,3.29,0.0,2.171
+EV-0300,BW-202,ThriftLane,2024-08-31,2024-08-31,50,1,0.2,False,True,True,ad,off_invoice,False,1212.83,2259.1,0.4,3.49,135.55,2.303
+EV-0301,BW-202,ThriftLane,2026-01-24,2026-01-24,123,1,0.2,False,True,False,ad,scanback,False,1110.25,1663.2,0.47,3.79,0.0,2.501
+EV-0302,BW-202,ThriftLane,2026-03-07,2026-03-07,129,1,0.1,False,False,False,tpr,scanback,False,212.29,1381.9,0.41,3.79,0.0,2.501
+EV-0303,BW-202,Hollybrook Foods,2025-10-25,2025-11-01,110,2,0.15,False,False,False,tpr,off_invoice,False,134.2,413.1,0.43,4.99,0.0,3.293
+EV-0304,BW-202,Hollybrook Foods,2024-07-27,2024-08-03,45,2,0.15,False,False,False,tpr,off_invoice,False,171.36,514.7,0.46,4.79,0.0,3.161
+EV-0305,BW-202,Hollybrook Foods,2025-09-13,2025-09-20,104,2,0.25,False,True,True,ad,off_invoice,False,809.3,893.4,0.39,4.99,53.6,3.293
+EV-0306,BW-202,Hollybrook Foods,2024-06-01,2024-06-08,37,2,0.25,False,True,False,ad,scanback,False,643.41,709.2,0.46,4.79,0.0,3.161
+EV-0307,BW-202,Hollybrook Foods,2026-01-24,2026-01-24,123,1,0.15,False,False,False,tpr,scanback,False,61.14,172.5,0.45,5.29,0.0,3.491
+EV-0308,BW-202,Hollybrook Foods,2024-04-13,2024-04-27,30,3,0.25,True,True,True,hero,scanback,False,1836.05,1415.2,0.44,4.79,84.91,3.161
+EV-0309,BW-202,Hollybrook Foods,2024-01-13,2024-01-20,17,2,0.15,False,False,False,tpr,scanback,False,99.26,398.3,0.37,4.49,0.0,2.963
+EV-0310,BW-202,Hollybrook Foods,2026-08-08,2026-08-22,151,3,0.3,True,True,True,hero,scanback,False,3103.99,2445.3,0.42,5.29,146.72,3.491
+EV-0311,BW-202,Hollybrook Foods,2025-01-04,2025-01-11,68,2,0.25,False,True,True,ad,scanback,False,670.66,646.2,0.45,4.79,38.77,3.161
+EV-0312,BW-202,Hollybrook Foods,2026-02-21,2026-02-28,127,2,0.2,False,True,False,ad,scanback,False,516.92,527.7,0.35,5.29,0.0,3.491
+EV-0313,BW-203,Fernhollow Market,2025-08-23,2025-08-23,101,1,0.2,True,True,False,ad,scanback,False,1374.56,666.0,0.38,8.99,0.0,5.933
+EV-0314,BW-203,Fernhollow Market,2025-01-11,2025-01-11,69,1,0.15,False,False,False,tpr,scanback,True,135.15,242.4,0.44,8.49,0.0,5.603
+EV-0315,BW-203,Fernhollow Market,2025-12-06,2025-12-20,116,3,0.3,True,True,False,hero,scanback,False,4615.7,1415.0,0.44,8.99,0.0,5.933
+EV-0316,BW-203,Fernhollow Market,2024-01-06,2024-01-13,16,2,0.2,False,True,False,ad,scanback,False,789.05,429.0,0.38,7.99,0.0,5.273
+EV-0317,BW-203,Fernhollow Market,2026-04-18,2026-04-25,135,2,0.1,False,False,False,tpr,scanback,False,179.12,512.3,0.37,9.49,0.0,6.263
+EV-0318,BW-203,Fernhollow Market,2025-07-19,2025-07-19,96,1,0.15,False,False,False,tpr,scanback,False,179.95,309.3,0.43,8.99,0.0,5.933
+EV-0319,BW-203,Fernhollow Market,2026-07-11,2026-07-18,147,2,0.25,True,True,False,ad,scanback,False,3071.01,1083.5,0.36,9.49,0.0,6.263
+EV-0320,BW-203,Fernhollow Market,2025-09-13,2025-09-13,104,1,0.1,False,False,False,tpr,scanback,False,108.39,260.5,0.46,8.99,0.0,5.933
+EV-0321,BW-203,Fernhollow Market,2026-01-10,2026-01-17,121,2,0.25,True,True,True,ad,scanback,False,3142.29,1024.2,0.45,9.49,61.45,6.263
+EV-0322,BW-203,Fernhollow Market,2024-08-31,2024-09-07,50,2,0.2,True,True,False,ad,scanback,False,2168.59,915.2,0.45,8.49,0.0,5.603
+EV-0323,BW-203,Fernhollow Market,2025-02-15,2025-02-22,74,2,0.15,False,False,False,tpr,scanback,False,233.02,402.9,0.45,8.49,0.0,5.603
+EV-0324,BW-203,Fernhollow Market,2025-05-03,2025-05-10,85,2,0.25,False,True,True,ad,off_invoice,True,1079.62,383.0,0.43,8.99,22.98,5.933
+EV-0325,BW-203,Fernhollow Market,2024-12-14,2024-12-14,65,1,0.15,False,False,False,tpr,scanback,False,89.02,181.2,0.39,8.49,0.0,5.603
+EV-0326,BW-203,Granite Peak Grocers,2026-07-04,2026-07-18,146,3,0.25,True,True,False,hero,scanback,False,4242.98,1855.3,0.35,8.79,0.0,5.801
+EV-0327,BW-203,Granite Peak Grocers,2026-05-16,2026-05-16,139,1,0.25,False,True,True,ad,scanback,False,720.84,359.4,0.43,8.79,21.56,5.801
+EV-0328,BW-203,Granite Peak Grocers,2024-01-06,2024-01-13,16,2,0.3,True,True,False,hero,scanback,False,2144.14,810.7,0.47,7.29,0.0,4.811
+EV-0329,BW-203,Granite Peak Grocers,2026-02-07,2026-02-14,125,2,0.1,False,False,False,tpr,scanback,False,117.56,406.2,0.35,8.29,0.0,5.471
+EV-0330,BW-203,Granite Peak Grocers,2023-10-21,2023-10-28,5,2,0.25,True,True,True,ad,scanback,False,2054.7,842.7,0.48,7.29,50.56,4.811
+EV-0331,BW-203,Granite Peak Grocers,2025-12-27,2026-01-03,119,2,0.25,False,True,False,ad,off_invoice,False,1275.24,664.6,0.43,8.29,0.0,5.471
+EV-0332,BW-203,Granite Peak Grocers,2025-05-17,2025-05-24,87,2,0.15,False,False,False,tpr,scanback,False,243.66,573.1,0.34,8.29,0.0,5.471
+EV-0333,BW-203,Granite Peak Grocers,2024-05-18,2024-05-25,35,2,0.25,False,True,False,ad,off_invoice,False,928.3,578.5,0.35,7.79,0.0,5.141
+EV-0334,BW-203,Granite Peak Grocers,2024-08-31,2024-08-31,50,1,0.25,False,True,False,ad,scanback,False,666.34,558.2,0.36,7.79,0.0,5.141
+EV-0335,BW-203,Granite Peak Grocers,2025-08-30,2025-08-30,102,1,0.15,False,False,False,tpr,off_invoice,False,159.73,317.1,0.41,8.29,0.0,5.471
+EV-0336,BW-203,Granite Peak Grocers,2024-10-19,2024-10-19,57,1,0.1,False,False,False,tpr,scanback,False,85.98,254.4,0.43,7.79,0.0,5.141
+EV-0337,BW-203,Granite Peak Grocers,2025-06-28,2025-07-12,93,3,0.25,True,True,False,hero,scanback,False,4133.02,1911.2,0.42,8.29,0.0,5.471
+EV-0338,BW-203,Granite Peak Grocers,2026-03-14,2026-03-14,130,1,0.15,False,False,False,tpr,scanback,False,102.7,213.3,0.37,8.79,0.0,5.801
+EV-0339,BW-203,Granite Peak Grocers,2025-09-27,2025-09-27,106,1,0.25,False,True,True,ad,scanback,False,762.18,495.2,0.38,8.29,29.71,5.471
+EV-0340,BW-203,Granite Peak Grocers,2025-11-29,2025-11-29,115,1,0.25,False,True,False,ad,scanback,True,488.79,154.2,0.47,8.29,0.0,5.471
+EV-0341,BW-203,Granite Peak Grocers,2025-02-01,2025-02-01,72,1,0.15,False,False,False,tpr,scanback,False,80.97,188.3,0.37,7.79,0.0,5.141
+EV-0342,BW-203,Granite Peak Grocers,2024-02-24,2024-02-24,23,1,0.15,False,False,False,tpr,scanback,False,104.02,229.5,0.41,7.29,0.0,4.811
+EV-0343,BW-203,Granite Peak Grocers,2025-01-04,2025-01-11,68,2,0.25,False,True,True,ad,scanback,False,1182.06,751.2,0.36,7.79,45.07,5.141
+EV-0344,BW-203,Granite Peak Grocers,2023-11-18,2023-11-18,9,1,0.15,False,False,False,tpr,scanback,False,69.5,161.3,0.39,7.29,0.0,4.811
+EV-0345,BW-203,ThriftLane,2026-08-08,2026-08-22,151,3,0.2,True,True,False,hero,off_invoice,False,6197.2,3716.1,0.35,7.79,0.0,5.141
+EV-0346,BW-203,ThriftLane,2025-10-11,2025-10-18,108,2,0.1,False,False,False,tpr,off_invoice,False,331.87,926.6,0.48,7.49,0.0,4.943
+EV-0347,BW-203,ThriftLane,2026-06-06,2026-06-06,142,1,0.15,False,False,False,tpr,scanback,False,229.2,553.4,0.35,7.79,0.0,5.141
+EV-0348,BW-203,ThriftLane,2026-02-14,2026-02-28,126,3,0.2,True,True,True,hero,scanback,True,4531.3,1171.1,0.37,7.49,70.27,4.943
+EV-0349,BW-203,ThriftLane,2024-01-13,2024-01-20,17,2,0.25,True,True,False,ad,scanback,False,2493.1,1208.7,0.45,6.49,0.0,4.283
+EV-0350,BW-203,ThriftLane,2024-03-23,2024-03-23,27,1,0.15,False,False,False,tpr,scanback,False,166.05,488.3,0.35,6.49,0.0,4.283
+EV-0351,BW-203,ThriftLane,2024-11-02,2024-11-02,59,1,0.15,False,False,False,tpr,scanback,False,168.47,374.4,0.43,6.99,0.0,4.613
+EV-0352,BW-203,ThriftLane,2024-11-23,2024-11-23,62,1,0.25,True,True,False,ad,scanback,False,1481.68,647.4,0.43,6.99,0.0,4.613
+EV-0353,BW-203,ThriftLane,2025-07-19,2025-07-26,96,2,0.15,False,False,False,tpr,off_invoice,False,503.49,1293.7,0.35,7.49,0.0,4.943
+EV-0354,BW-203,ThriftLane,2026-07-04,2026-07-11,146,2,0.15,False,False,False,tpr,scanback,False,924.82,1734.0,0.46,7.79,0.0,5.141
+EV-0355,BW-203,ThriftLane,2025-02-15,2025-02-22,74,2,0.25,False,True,False,ad,scanback,False,1824.76,1331.8,0.43,6.99,0.0,4.613
+EV-0356,BW-203,ThriftLane,2023-11-25,2023-12-02,10,2,0.2,True,True,False,ad,scanback,False,2053.46,1110.4,0.37,6.49,0.0,4.283
+EV-0357,BW-203,ThriftLane,2025-04-19,2025-04-19,83,1,0.15,False,False,False,tpr,off_invoice,False,282.5,568.8,0.47,6.99,0.0,4.613
+EV-0358,BW-203,ThriftLane,2026-01-10,2026-01-17,121,2,0.15,False,False,False,tpr,scanback,False,444.1,972.4,0.41,7.49,0.0,4.943
+EV-0359,BW-203,ThriftLane,2025-05-31,2025-06-07,89,2,0.25,True,True,False,hero,scanback,False,3585.74,2201.3,0.36,6.99,0.0,4.613
+EV-0360,BW-203,ThriftLane,2026-04-18,2026-04-25,135,2,0.1,False,False,False,tpr,scanback,True,242.45,757.8,0.41,7.79,0.0,5.141
+EV-0361,BW-203,ThriftLane,2024-02-24,2024-02-24,23,1,0.25,False,True,False,ad,off_invoice,False,621.29,530.6,0.35,6.49,0.0,4.283
+EV-0362,BW-203,ThriftLane,2024-12-28,2025-01-11,67,3,0.2,True,True,False,hero,scanback,False,4547.83,2429.4,0.42,6.99,0.0,4.613
+EV-0363,BW-203,ThriftLane,2025-08-16,2025-08-23,100,2,0.1,False,False,False,tpr,scanback,False,366.61,1166.1,0.42,7.49,0.0,4.943
+EV-0364,BW-203,ThriftLane,2024-08-03,2024-08-10,46,2,0.1,False,False,False,tpr,scanback,False,262.86,851.8,0.44,6.99,0.0,4.613
+EV-0365,BW-203,ThriftLane,2024-08-31,2024-09-07,50,2,0.15,False,False,False,tpr,scanback,False,471.15,1081.8,0.42,6.99,0.0,4.613
+EV-0366,BW-203,ThriftLane,2023-10-07,2023-10-14,3,2,0.15,False,False,False,tpr,off_invoice,False,330.44,763.5,0.44,6.49,0.0,4.283
+EV-0367,BW-203,ThriftLane,2025-03-22,2025-03-22,79,1,0.1,False,False,False,tpr,scanback,False,115.5,417.0,0.4,6.99,0.0,4.613
+EV-0368,BW-203,ThriftLane,2024-04-27,2024-04-27,32,1,0.15,False,False,False,tpr,scanback,False,124.59,375.5,0.34,6.49,0.0,4.283
+EV-0369,BW-203,ThriftLane,2025-11-08,2025-11-15,112,2,0.1,False,False,False,tpr,off_invoice,False,216.34,752.4,0.38,7.49,0.0,4.943
+EV-0370,BW-203,ThriftLane,2026-03-21,2026-03-21,131,1,0.2,False,True,True,ad,off_invoice,False,1104.08,878.3,0.4,7.49,52.7,4.943
+EV-0371,BW-203,ThriftLane,2024-06-08,2024-06-15,38,2,0.1,False,False,False,tpr,scanback,False,227.32,945.4,0.34,6.99,0.0,4.613
+EV-0372,BW-203,Hollybrook Foods,2025-02-01,2025-02-08,72,2,0.2,False,True,False,ad,scanback,False,382.76,184.3,0.39,8.49,0.0,5.603
+EV-0373,BW-203,Hollybrook Foods,2024-07-06,2024-07-13,42,2,0.2,True,True,False,ad,scanback,False,940.68,421.5,0.44,8.49,0.0,5.603
+EV-0374,BW-203,Hollybrook Foods,2024-10-26,2024-10-26,58,1,0.1,False,False,False,tpr,scanback,False,25.3,65.0,0.46,8.49,0.0,5.603
+EV-0375,BW-203,Hollybrook Foods,2025-03-15,2025-03-15,78,1,0.15,False,False,False,tpr,off_invoice,False,35.89,68.3,0.41,8.49,0.0,5.603
+EV-0376,BW-203,Hollybrook Foods,2024-11-30,2024-11-30,63,1,0.25,True,True,False,ad,scanback,False,450.09,143.6,0.4,8.49,0.0,5.603
+EV-0377,BW-203,Hollybrook Foods,2026-07-11,2026-07-11,147,1,0.1,False,False,False,tpr,off_invoice,False,48.64,112.9,0.45,9.49,0.0,6.263
+EV-0378,BW-203,Hollybrook Foods,2026-01-10,2026-01-10,121,1,0.2,False,True,False,ad,scanback,False,237.33,113.9,0.36,9.49,0.0,6.263
+EV-0379,BW-203,Hollybrook Foods,2025-05-17,2025-05-24,87,2,0.25,False,True,False,ad,off_invoice,False,565.08,310.8,0.41,8.99,0.0,5.933
+EV-0380,BW-203,Hollybrook Foods,2026-05-16,2026-05-23,139,2,0.1,False,False,False,tpr,scanback,False,82.85,195.4,0.45,9.49,0.0,6.263
+EV-0381,BW-203,Hollybrook Foods,2024-12-21,2025-01-04,66,3,0.3,True,True,True,hero,scanback,False,1532.69,488.7,0.4,8.49,29.32,5.603
+EV-0382,BW-203,Hollybrook Foods,2024-08-17,2024-08-31,48,3,0.25,True,True,False,hero,off_invoice,False,1490.89,609.5,0.43,8.49,0.0,5.603
