@@ -7,7 +7,7 @@ efficiency, list-price what-ifs, and counterfactual promo planning. A dashboard 
 page carries each view's headline.
 
 **Nothing to install. The screenshots below show the three charts the whole thing turns
-on, and the live demo is one click:** `[LIVE DEMO LINK]`
+on, and the live demo is one click:** https://JosephKauffmann.github.io/rgm-bench/
 
 ## Why synthetic data
 
