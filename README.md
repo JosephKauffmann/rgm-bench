@@ -7,7 +7,7 @@ efficiency, list-price what-ifs, and counterfactual promo planning. A dashboard 
 page carries each view's headline.
 
 **Nothing to install. The screenshots below show the three charts the whole thing turns
-on, and the live demo is one click:** https://JosephKauffmann.github.io/rgm-bench/
+on, and the live demo is one click:** `[LIVE DEMO LINK]`
 
 ## Why synthetic data
 
@@ -71,9 +71,11 @@ of events below breakeven. That flip is the argument for measuring dips at all.
 
 ## Screenshots
 
-`[SCREENSHOT: Own the baseline, stacked decomposition]`
-`[SCREENSHOT: The two elasticities, curves]`
-`[SCREENSHOT: Plan the next event, depth x mechanics planner]`
+![Overview: six views of the same 383 promotions](assets/01-overview.png)
+
+![Baseline and forecast: the baseline decomposed into its components, with a 26-week out-of-sample demand forecast](assets/02-baseline-and-forecast.png)
+
+![Planner: expected net ROI by discount depth and mechanics, plus a list-price what-if](assets/04-planner.png)
 
 ## What's in here
 
@@ -129,8 +131,5 @@ published marketing-science literature. No employer data, systems, code, or clie
 information is used or referenced.
 
 ---
-
-I built this to show how I think about promotion measurement, a problem I work on
-professionally. If it is a problem you are working on too, I would like twenty minutes.
 
 Joseph Kauffmann · New York · joseph.kauffmann@me.com
